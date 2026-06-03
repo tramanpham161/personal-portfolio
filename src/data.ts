@@ -1,10 +1,3 @@
-import childcareCheckerImg from './assets/images/childcare_checker_1780474677293.png';
-import backToWorkImg from './assets/images/back_to_work_1780474692826.png';
-import tottableRecipesImg from './assets/images/tottable_recipes_1780474705348.png';
-import mumReviewsImg from './assets/images/mum_reviews_1780474720017.png';
-import inventoryOptimiserImg from './assets/images/inventory_optimiser_1780474737874.png';
-import coffeeBlendImg from './assets/images/coffee_blend_1780474754515.png';
-
 export interface Project {
   id: string;
   title: string;
