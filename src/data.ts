@@ -51,7 +51,7 @@ export const PROJECTS: Project[] = [
       'Check regulatory screening scores and indicators at a single glance.',
       'Plan and estimate early-years child support and government eligibility.',
     ],
-    image: 'your-uploaded-image-childcare.jpg',
+    image: 'Childcare Checker - main page.png',
     category: 'parenting',
     tags: ['Next.js', 'Eligibility Checker', 'Parenting Helper'],
     stats: [
