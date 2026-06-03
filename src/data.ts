@@ -69,7 +69,7 @@ export const PROJECTS: Project[] = [
       'Ramp-up milestones to balance domestic care and workplace responsibilities.',
       'Actionable checklist covering feeding cycles, express-plan, and kit prep.',
     ],
-    image: 'Back to work main page.png',
+    image: '/Back to work main page.png',
     category: 'parenting',
     tags: ['Vite', 'Transition Planner', 'Checklists'],
     stats: [
