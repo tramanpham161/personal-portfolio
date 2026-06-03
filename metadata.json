@@ -1,0 +1,6 @@
+{
+  "name": "Parenting & Operations Portfolio",
+  "description": "A elegant and modern portfolio showcasing digital parenting products and business operations tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
