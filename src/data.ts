@@ -51,7 +51,7 @@ export const PROJECTS: Project[] = [
       'Check regulatory screening scores and indicators at a single glance.',
       'Plan and estimate early-years child support and government eligibility.',
     ],
-    image: 'Childcare Checker - main page.png',
+    image: '/assets/images/Childcare Checker - main page.png',
     category: 'parenting',
     tags: ['Next.js', 'Eligibility Checker', 'Parenting Helper'],
     stats: [
@@ -87,7 +87,7 @@ export const PROJECTS: Project[] = [
       'Allergy-conscious filters with allergen tags and swift substitutions.',
       'Clean step-by-step cooking instructions requiring minimal kitchen prep.',
     ],
-    image: tottableRecipesImg,
+    image: '/assets/images/Tot Table main page.png',
     category: 'parenting',
     tags: ['Tailwind', 'AI Recipe Ideas', 'Kid-friendly'],
     stats: [
@@ -105,7 +105,7 @@ export const PROJECTS: Project[] = [
       'Sensory-friendly toys evaluations and high-quality safety feedback.',
       'A rich collection of lived early-years stories and nursery setups.',
     ],
-    image: mumReviewsImg,
+    image: '/assets/images/The honest mum reviews main page.png',
     category: 'parenting',
     tags: ['WordPress', 'Written Reviews', 'Parenting Blog'],
     stats: [
@@ -123,7 +123,7 @@ export const PROJECTS: Project[] = [
       'Minimize storage holding costs while shielding operations from stockouts.',
       'Visualize turnover ratios and stock levels over clean date ranges.',
     ],
-    image: inventoryOptimiserImg,
+    image: '/assets/images/FMCG Inventory Optimiser main page.png',
     category: 'business',
     tags: ['Streamlit', 'Inventory Operations', 'Demand Analytics'],
     stats: [
@@ -141,7 +141,7 @@ export const PROJECTS: Project[] = [
       'Verify tasting notes and adjust ratios for target acidity, body, and sweet aroma.',
       'Save time estimating production weight costs for boutique roaster operations.',
     ],
-    image: 'your-uploaded-image.jpg',
+    image: '/assets/images/Coffee blend checker.png',
     category: 'business',
     tags: ['Python App', 'Roastery Math', 'Ratio Balancer'],
     stats: [
